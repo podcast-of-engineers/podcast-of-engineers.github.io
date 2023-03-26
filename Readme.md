@@ -15,7 +15,6 @@ https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp
 可以自学一下 go template language:
 - https://gohugo.io/templates/introduction/
 - https://gohugo.io/templates/
-- 
 
 ## 使用 Hugo 版本
 Hugo 0.62 extended 或者 0.86 extended （不是最新的）
