@@ -3,11 +3,8 @@
 
 https://gitee.com/lundechen/static_website_with_go_hugo
 
-## 周会
-每周日19点周会，一起讨论
+Bootstrap 4.5
 
-## What you should learn:
-### Bootstrap
 
 ## 使用 Hugo 版本
 Hugo 0.62 extended 或者 0.86 extended （不是最新的）
