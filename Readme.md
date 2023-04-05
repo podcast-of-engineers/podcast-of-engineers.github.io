@@ -41,5 +41,13 @@ https://github.com/cppshu/cppshu.github.io
 
 https://github.com/metislab/metislab.github.io
 
+## TODO
+
+Logo
+
+Question list
+
+Microphone requirements for co-hosts
+
 ## License
 The whole website is licensed under MIT.
