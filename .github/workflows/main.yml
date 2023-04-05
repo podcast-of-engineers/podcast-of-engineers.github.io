@@ -20,7 +20,7 @@ jobs:
         extended: true
 
     - name: Build
-      run: hugo --minify --baseURL=https://utseus-internship.github.io
+      run: hugo --minify --baseURL=https://podcast-of-engineers.github.io
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
