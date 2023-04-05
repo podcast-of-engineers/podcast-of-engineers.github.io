@@ -42,4 +42,4 @@ https://github.com/cppshu/cppshu.github.io
 https://github.com/metislab/metislab.github.io
 
 ## License
-MIT
+The whole website is licensed under MIT.
