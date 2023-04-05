@@ -39,8 +39,5 @@ Corresponding documentation: https://docs.gethugothemes.com/eventre/
 ## 参考项目
 https://github.com/cppshu/cppshu.github.io
 
-
-比如多语言支持等可以参考这个项目。
-
-
 https://github.com/metislab/metislab.github.io
+
