@@ -19,6 +19,7 @@ https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp
 ## 使用 Hugo 版本
 Hugo 0.62 extended 或者 0.86 extended （不是最新的）
 
+
 ## 国内资源文件加载
 
 一些国外资源文件在国内无法可能无法加载，需要后期处理一下。
@@ -35,6 +36,8 @@ Corresponding documentation: https://docs.gethugothemes.com/eventre/
 ## 参考项目
 https://github.com/cppshu/cppshu.github.io
 
+
 比如多语言支持等可以参考这个项目。
+
 
 https://github.com/metislab/metislab.github.io
