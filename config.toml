@@ -2,6 +2,8 @@
 baseURL = "https://demo.gethugothemes.com/bookworm-light/"
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm-light"
+themesDir = "../"
+
 # post pagination
 paginate = "5"
 # post excerpt
