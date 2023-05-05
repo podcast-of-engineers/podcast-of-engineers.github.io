@@ -1,5 +1,4 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/bookworm-light/"
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm-light"
 themesDir = "../"
