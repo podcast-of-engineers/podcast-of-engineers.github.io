@@ -132,7 +132,7 @@ weight = 4
   
 [[menu.main]]
 name = "Co-host"
-url = "author/"
+url = "cohost/"
 weight = 5
 
 [[menu.main]]
@@ -183,8 +183,8 @@ url = "coordinators/"
 weight = 2
 
 [[menu.footer]]
-name = "Authors"
-url = "author/"
+name = "Co-host"
+url = "cohost/"
 weight = 3
 
 # Social Icons
