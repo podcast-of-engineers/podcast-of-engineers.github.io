@@ -1,40 +1,51 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: ''
+admin_path: 
 webhook_url: 
 sections:
 - type: heading
-  label: Homepage
-- type: document
-  path: exampleSite/data/homepage.yml
-  label: Homepage
-- type: heading
-  label: Blog Post
+  label: Blog
 - type: document
   path: exampleSite/content/blog/_index.md
-  label: Blog Page
+  label: Blog
 - type: directory
   path: exampleSite/content/blog
-  label: Posts
+  label: Blog Posts
   create: documents
   match: "**/*"
   exclude: _index.md
   templates:
-  - post
+  - create-new-post
 - type: heading
-  label: Speaker
-- type: document
-  path: exampleSite/content/speaker/_index.md
-  label: Speaker Page
+  label: Author
 - type: directory
-  path: exampleSite/content/speaker
-  label: Speakers
-  create: documents
-  match: "**/*"
-  exclude: _index.md
+  path: exampleSite/content/author
+  label: Author
+  create: all
+  match: "*"
   templates:
-  - speaker
+  - create-new-author
+- type: heading
+  label: About
+- type: document
+  path: exampleSite/content/about.md
+  label: About
+- type: heading
+  label: Contact
+- type: document
+  path: exampleSite/content/contact.md
+  label: Contact
+- type: heading
+  label: Privacy
+- type: document
+  path: exampleSite/content/privacy.md
+  label: Privacy
+- type: heading
+  label: Terms & Conditions
+- type: document
+  path: exampleSite/content/terms-conditions.md
+  label: Terms
 - type: heading
   label: All Pages
 - type: directory
@@ -42,19 +53,15 @@ sections:
   label: All Pages
   create: all
   match: "**/*"
+  exclude: _index.md
   templates:
-  - post
-  - speaker
   - new-page
 - type: heading
   label: Configuration
-- type: directory
-  path: exampleSite
+- type: document
+  path: exampleSite/config.toml
   label: Configuration
-  create: all
-  match: "*.toml"
-  new_doc_ext: toml
-upload_dir: exampleSite/static/images
+upload_dir: exampleSite/assets/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
@@ -62,11 +69,11 @@ file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.58.2
+  - HUGO_VERSION=0.90.1
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
-version: 0.58.2
+version: 0.90.1

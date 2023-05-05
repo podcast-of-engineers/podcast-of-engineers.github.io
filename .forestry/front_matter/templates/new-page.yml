@@ -5,9 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: file
-  name: page_header_bg
-  label: page_header_bg
 - type: datetime
   name: date
   label: date
