@@ -1,4 +1,5 @@
 ######################## default configuration ####################
+baseURL = "https://podcast-of-engineers.github.io"
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm-light"
 themesDir = "../"
