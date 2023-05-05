@@ -1,42 +1,54 @@
 ---
-title : "About Us"
-page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-03-14T15:40:24+06:00
-description : "this is meta description"
-draft : false
-layout : "about"
-image : "images/speakers/featured-speaker.jpg"
+title: "About"
+layout: "about"
+image: "images/about.jpg"
+draft: false
 
-
-#### Testimonial ####
-testimonial:
+#caption
+caption:
   enable: true
-  title: "What People _Say?_"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti aliquid vero harum rerum voluptates, ab, ullam."
-  testimonial_items:
-  - name : "Espen Brunberg"
-    designation : "Web Developer"
-    image : "images/speakers/speaker-thumb-three.jpg"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
+  title: "Welcome to Podcast-of-engineers"
+
+# social
+social:
+  enable: true
+  social_links:
+  - link: "https://www.facebook.com/"
+    icon: "lab la-facebook-f"
+
+  - link: "https://www.twitter.com/"
+    icon: "lab la-twitter"
     
-  - name : "Kaite Stricker"
-    designation : "Web Developer"
-    image : "images/speakers/speaker-thumb-one.jpg"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
+  - link: "https://www.linkedin.com/"
+    icon: "lab la-linkedin-in"
     
-  - name : "Adam Smith"
-    designation : "Web Developer"
-    image : "images/speakers/speaker-thumb-five.jpg"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
+  - link: "https://www.github.com/"
+    icon: "lab la-github"
+
+# what_we_do
+what_we_do:
+  title: "What We Do"
+  enable: true
+  item:
+  - title: "Promote engineer education"
+    icon: "las la-pen-nib"
+    description: "Promote our UTSEUS Engineering/Internship program; Help student audiance in SHU better understand our program."
+    
+  - title: "Discover the meaning of life"
+    icon: "las la-camera"
+    description: "Help student audiance in China/across the world beeter undertand how to succeed university life, career life and life in general."
+    
+  - title: "Revealing the Meaning of Life"
+    icon: "lar la-snowflake"
+    description: "Motivate students to learn French/English really well."
+ 
 ---
+Welcome to our podcast, "Podcast-of-engineers", where we bring you insightful conversations with engineers from various industries and backgrounds.
 
-## About The _Eventre_
+Our aim is to uncover the stories, experiences, challenges, and successes of engineers who are making a difference in the world today. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore
-magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
+From robotics to aerospace, civil engineering to computer science, and everything in between, our guests share their perspectives on their work, how they got into engineering, and the impact their innovations are having on society. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+Hosted by passionate engineering enthusiasts, this podcast seeks to inspire and enlighten others about the exciting and ever-evolving world of engineering. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+Join us on this journey and gain a new appreciation for the critical role engineers play in shaping our world.
