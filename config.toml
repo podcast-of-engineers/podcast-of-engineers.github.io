@@ -81,7 +81,7 @@ search = true
 # main section
 mainSections = ["blog"]
 # copyright
-copyright = "Designed & Developed By podcast-of-engineers & Guests"
+copyright = "Copyright © The Podcast of Engineers & Guests"
 
 # Preloader
 [params.preloader]
