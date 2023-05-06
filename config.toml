@@ -7,22 +7,12 @@ themesDir = "../"
 paginate = "5"
 # post excerpt
 summaryLength = "20"
-# google analytics
-googleAnalytics = "" # example : UA-123-45
-# disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 
 ############################# Modules ##############################
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
-[module]
-  [[module.imports]]
-    path = "github.com/gethugothemes/bookworm-light"
-    disabled = false
-    [[module.imports.mounts]]
-      source = "assets"
-      target = "static"
+
 ############################# Image Processing ##############################
 [imaging]
 quality = "95"
