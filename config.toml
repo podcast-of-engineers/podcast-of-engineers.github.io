@@ -1,7 +1,5 @@
 ######################## default configuration ####################
-title = "Bookworm - Personal Blog Template"
-theme = "bookworm-light"
-themesDir = "../"
+title = "Podcast of Engineers"
 
 # post pagination
 paginate = "5"
