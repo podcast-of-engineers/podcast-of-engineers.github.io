@@ -126,8 +126,8 @@ url = "coordinators/"
 weight = 4
   
 [[menu.main]]
-name = "Co-host"
-url = "cohost/"
+name = "Co-hosts"
+url = "cohosts/"
 weight = 5
 
 [[menu.main]]
@@ -178,8 +178,8 @@ url = "coordinators/"
 weight = 2
 
 [[menu.footer]]
-name = "Co-host"
-url = "cohost/"
+name = "Co-hosts"
+url = "cohosts/"
 weight = 3
 
 # Social Icons
