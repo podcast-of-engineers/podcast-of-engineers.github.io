@@ -1,8 +1,8 @@
 ---
-title: "Nuo Chen"
-image: "images/author/author-2.jpg"
+title: "Yicong Li"
+image: "images/author/author.jpg"
 email: "abdulmonnafsomrat@gmail.com"
-date: 2021-02-02T10:20:19+06:00
+date: 2021-01-26T10:14:19+06:00
 draft: false
 social:
 - icon: "la-facebook-f"

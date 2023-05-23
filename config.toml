@@ -131,40 +131,9 @@ url = "cohosts/"
 weight = 5
 
 [[menu.main]]
-weight = 6
-url = "#"
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Author"
-  url = "author/"
-  weight = 1
-  
-  [[menu.main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/"
-  weight = 2
-  
-  [[menu.main]]
-  parent = "Pages"
-  name = "Elements"
-  weight = 3
-  url = "elements/"
-  
-  [[menu.main]]
-  parent = "Pages"
-  name = "Privacy"
-  url = "privacy/"
-  weight = 4
-  
-  [[menu.main]]
-  parent = "Pages"
-  name = "Terms & Conditions"
-  url = "terms-conditions/"
-  weight = 5
+name = "Tags"
+url = "tags/"
+weight = 2
 
 ############################# Footer Menu ########################
 [[menu.footer]]

@@ -11,17 +11,25 @@
           <h3 class="h2 mb-4 post-title">{{.Title}}</h3>
           <ul class="card-meta list-inline">
             <li class="list-inline-item">
-              {{ if .Params.author }}
-              <a href="#!" class="card-meta-author">
-                {{ with .Site.GetPage (.Params.author | urlize | lower) }}
-                <a href="{{.Permalink}}" class="card-meta-author">
-                  {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" .Title) }}
-                  <span>{{.Title}}</span>
-                </a>
+              {{ if .Params.Cohosts }}
+              <li class="list-inline-item mb-2">
+                {{ range .Params.Cohosts }}
+                {{ $cohost := site.GetPage (printf "/cohosts/%s" (.name | urlize | lower)) }}
+                {{ if .is_coordinator }}
+                  {{ $cohost = site.GetPage (printf "/coordinators/%s" (.name | urlize | lower)) }}
                 {{ end }}
-              </a>
-              {{ else }}
-                <span>{{.Site.Params.Author}}</span>
+                {{ with $cohost }}
+                  <a href="{{.Permalink}}" class="card-meta-author">
+                    {{if .Params.image}}
+                      {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" .Title) }}
+                    {{else}}
+                      <img loading="lazy" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon">
+                    {{end}}
+                    <span>{{ .Title }}</span>
+                  </a>
+                {{ end }}
+              {{ end }}
+              </li>
               {{ end }}
             </li>
             <li class="list-inline-item">|</li>
@@ -30,7 +38,11 @@
             </li>
           </ul>
         </div>
-
+        {{ if .Params.video }}
+        <div class="mb-5 text-center">
+          {{ partial "video.html" .Params.video }}
+        </div>
+        {{ end }}
         {{ with .Params.image }}
         <div class="mb-5 text-center">
           {{ partial "image.html" (dict "Src" . "Class" "img-fluid rounded" "Alt" "Post image") }}
@@ -85,7 +97,6 @@
         </div>
       </div>
     {{ end }}
-
     {{ $related := (where site.RegularPages "Section" "blog") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
     {{ if $related }}
       <div class="single-post-similer">
