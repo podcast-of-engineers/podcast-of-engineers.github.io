@@ -11,6 +11,7 @@ social:
   link: "https://twitter.com"
 - icon: "la-linkedin-in"
   link: "https://linkedin.com"
+  coordinator: false
 ---
 
 Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.

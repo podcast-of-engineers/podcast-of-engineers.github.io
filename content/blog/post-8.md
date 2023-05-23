@@ -2,9 +2,14 @@
 title: "Breaking New Grounds in Materials Science"
 image: "images/post/07.jpg"
 date: 2023-01-24T18:19:25+06:00
-author: "Lubana Era"
+cohosts:
+  - name: Yicong Li
+    is_coordinator: true
+  - name: Nuo Chen
+    is_coordinator: false
 tags: ["Materials Science"]
 draft: false
+video: "http://player.bilibili.com/player.html?aid=557334928&bvid=BV1ke4y1o7Ki&cid=812171100&page=1"
 ---
 
 Dr. Lisa Lee is a highly experienced and accomplished materials science engineer with over a decade of research and development experience in the field. She received her PhD in materials science and engineering from a top university and has worked in both academic and industrial settings. Currently, she serves as a Research Manager at a leading materials science company, where she leads a team of researchers in developing new materials for a variety of applications. Dr. Lee has authored and co-authored numerous scientific papers and patents and has received several awards and recognitions for her contributions to the field of materials science. Her expertise lies in the synthesis, processing, and characterization of a wide range of materials, including polymers, metals, and ceramics. Dr. Lee is passionate about mentoring young engineers and encouraging young people to pursue careers in STEM fields.

@@ -6,18 +6,24 @@
   {{end}}
   <div class="card-body">
     <ul class="card-meta list-inline mb-2">
-      {{ if .Params.Author }}
+      {{ if .Params.Cohosts }}
       <li class="list-inline-item mb-2">
-        {{ with site.GetPage (.Params.Author | urlize | lower) }}
-        <a href="{{.Permalink}}" class="card-meta-author">
-          {{if .Params.image}}
-          {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" .Title) }}
-          {{else}}
-          <img loading="lazy" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon">
-          {{end}}
-          <span>{{ .Title }}</span>
-        </a>
+        {{ range .Params.Cohosts }}
+        {{ $cohost := site.GetPage (printf "/cohosts/%s" (.name | urlize | lower)) }}
+        {{ if .is_coordinator }}
+          {{ $cohost = site.GetPage (printf "/coordinators/%s" (.name | urlize | lower)) }}
         {{ end }}
+        {{ with $cohost }}
+          <a href="{{.Permalink}}" class="card-meta-author">
+            {{if .Params.image}}
+              {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" .Title) }}
+            {{else}}
+              <img loading="lazy" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon">
+            {{end}}
+            <span>{{ .Title }}</span>
+          </a>
+        {{ end }}
+      {{ end }}
       </li>
       {{ end }}
       <li class="list-inline-item mb-2">
