@@ -6,6 +6,8 @@ paginate = "5"
 # post excerpt
 summaryLength = "20"
 enableEmoji = true
+enableGitInfo = false
+hasCJKLanguage = true
 
 ############################# Modules ##############################
 [module.hugoVersion]
