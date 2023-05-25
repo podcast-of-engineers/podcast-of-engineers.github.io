@@ -39,7 +39,7 @@ https://github.com/metislab/metislab.github.io
 
 Logo
 
-Question list
+Question bank
 
 Microphone requirements for co-hosts
 
