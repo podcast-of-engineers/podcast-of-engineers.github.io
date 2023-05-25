@@ -5,6 +5,7 @@ title = "Podcast of Engineers"
 paginate = "5"
 # post excerpt
 summaryLength = "20"
+enableEmoji = true
 
 ############################# Modules ##############################
 [module.hugoVersion]

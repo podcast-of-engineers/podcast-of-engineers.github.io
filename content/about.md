@@ -52,6 +52,6 @@ From robotics to aerospace, civil engineering to computer science, and everythin
 
 Co-hosted by passionate engineering enthusiasts (mostly students and engineers-to-be from UTSEUS, Shanghai University), this podcast seeks to inspire and enlighten others about the exciting and ever-evolving world of engineering. 
 
-Engineering without humanity is void of soul, that's why humanity is a central topic of our podcast as well. We vision a sustainable, healthy, secure, connected, and creative humanity. For this, engineers should be armed with multicultural and multidisciplinary knowledge and perspectives. That's why we propose this podcast in Chinese, French and English, and that's why our discussions can be very vast and deep.
+Engineering without humanity is void of soul, that's why humanity is a central topic of our podcast as well. We vision a sustainable, healthy, secure, connected, and creative humanity. For this, engineers should be armed with multicultural and multidisciplinary knowledge and perspectives. That's why we propose this podcast in Chinese :cn:, French :fr: and English :us:, and that's why our discussions can be very vast and deep.
 
 Join us on this journey and gain a new appreciation for the critical role engineers play in shaping our world.
