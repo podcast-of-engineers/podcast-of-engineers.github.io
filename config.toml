@@ -48,6 +48,8 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/iconify/iconify-icon.min.js"
 
 # site variables
 [params.variables]
@@ -161,8 +163,3 @@ url = "https://www.instagram.com/"
 [[params.social]]
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
 url = "https://www.linkedin.com/"
-
-[[params.social]]
-icon = "images/icon_bilibili.png" 
-icon_width = "1px"
-url = "https://www.bilibili.com/"
