@@ -109,7 +109,7 @@ input_placeholder = "Enter your email"
 # cookies
 [params.cookies]
 enable = false
-expire_days = 2
+expire_days = 200
 
 
 ############################# Main Menu ########################
