@@ -50,7 +50,7 @@ Our goal is to uncover the stories, experiences, challenges, and successes of en
 
 From robotics to aerospace, civil engineering to computer science, and everything in between, our guests share their perspectives on their work, how they got into engineering, and the impact their innovations are having on society. 
 
-Co-hosted by passionate engineering enthusiasts (mostly students and engineers-to-be from UTSEUS, Shanghai University), this podcast seeks to inspire and enlighten others about the exciting and ever-evolving world of engineering. 
+Co-hosted by passionate engineering enthusiasts (mostly students and engineers-to-be from [UTSEUS, Shanghai University](https://utseus.shu.edu.cn/en.htm)), this podcast seeks to inspire and enlighten others about the exciting and ever-evolving world of engineering. 
 
 Engineering without humanity is devoid of soul, that's why humanity is a central topic of our podcast as well. We vision a sustainable, healthy, secure, connected, and creative humanity. For this, engineers should be armed with multicultural and multidisciplinary knowledge and perspectives. That's why we propose this podcast in Chinese :cn:, French :fr: and English :us:, and that's why our discussions can be very vast and deep, covering from time to time literature, history, languages, ecology, fitness, mindfulness, spirituality, social science, and so on.
 
