@@ -7,7 +7,7 @@ draft: false
 #caption
 caption:
   enable: true
-  title: "Welcome to Podcast-of-engineers"
+  title: "Welcome to The Podcast of Engineers"
 
 # social
 social:
@@ -43,12 +43,13 @@ what_we_do:
     description: "Motivate students to learn French/English really well."
  
 ---
-Welcome to our podcast, "Podcast-of-engineers", where we bring you insightful conversations with engineers from various industries and backgrounds.
 
-Our aim is to uncover the stories, experiences, challenges, and successes of engineers who are making a difference in the world today. 
+Welcome to our podcast, "the Podcast of Engineers", where we bring you insightful conversations with engineers from various industries and backgrounds.
+
+Our goal is to uncover the stories, experiences, challenges, and successes of engineers who are making a difference in the world today. 
 
 From robotics to aerospace, civil engineering to computer science, and everything in between, our guests share their perspectives on their work, how they got into engineering, and the impact their innovations are having on society. 
 
-Hosted by passionate engineering enthusiasts, this podcast seeks to inspire and enlighten others about the exciting and ever-evolving world of engineering. 
+Co-hosted by passionate engineering enthusiasts (mostly students from UTSEUS, Shanghai University), this podcast seeks to inspire and enlighten others about the exciting and ever-evolving world of engineering. 
 
 Join us on this journey and gain a new appreciation for the critical role engineers play in shaping our world.
