@@ -149,6 +149,14 @@ weight = 3
 
 # Social Icons
 [[params.social]]
+icon = "las la-podcast" # https://icons8.com/line-awesome
+url = "https://www.apple.com/en/apple-podcasts/"
+
+[[params.social]]
+icon = "lab la-spotify" # https://icons8.com/line-awesome
+url = "https://open.spotify.com/"
+
+[[params.social]]
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
 url = "https://www.facebook.com/"
 
@@ -163,3 +171,7 @@ url = "https://www.instagram.com/"
 [[params.social]]
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
 url = "https://www.linkedin.com/"
+
+[[params.social]]
+icon = "lab la-github" # https://icons8.com/line-awesome
+url = "https://github.com/podcast-of-engineers"
