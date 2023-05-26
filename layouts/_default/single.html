@@ -47,8 +47,8 @@
         {{ end }}
 
         {{ if .Params.video }}
-          <div id="iframe-container" style="padding-bottom: 3em;">
-            <iframe src="{{ .Params.video }}" width="100%" height="500" scrolling="no" frameborder="0" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+          <div id="iframe-container">
+            <iframe src="{{ .Params.video }}"  scrolling="no" frameborder="0" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
           </div>
         {{ end }}
 
