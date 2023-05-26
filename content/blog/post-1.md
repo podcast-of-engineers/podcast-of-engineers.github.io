@@ -3,8 +3,8 @@ title: "Learn more about your work in materials science engineering"
 image: "images/post/07.jpg"
 date: 2021-01-24T18:19:25+06:00
 cohosts:
-  - name: Yicong Li
-    is_coordinator: true
+  - name: Zikang Chen
+    is_coordinator: false
   - name: Nuo Chen
     is_coordinator: true
 tags: ["Materials Science"]

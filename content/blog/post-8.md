@@ -6,7 +6,7 @@ cohosts:
   - name: Yicong Li
     is_coordinator: true
   - name: Nuo Chen
-    is_coordinator: false
+    is_coordinator: true
 tags: ["Materials Science"]
 draft: false
 video: "//player.bilibili.com/player.html?aid=60016166&cid=104514776&page=1&danmaku=0"
