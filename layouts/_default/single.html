@@ -38,15 +38,19 @@
             </li>
           </ul>
         </div>
-        {{ if .Params.video }}
-        <div class="mb-5 text-center">
-          {{ partial "video.html" .Params.video }}
-        </div>
-        {{ end }}
+
+
         {{ with .Params.image }}
         <div class="mb-5 text-center">
           {{ partial "image.html" (dict "Src" . "Class" "img-fluid rounded" "Alt" "Post image") }}
         </div>
+        {{ end }}
+
+        {{ if .Params.video }}
+          <div id="iframe-container">
+            <iframe src="{{ .Params.video }}" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" framespacing="0" allowfullscreen="true"
+              sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+          </div>
         {{ end }}
 
         <div class="content">
