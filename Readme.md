@@ -49,6 +49,8 @@ By default, Icons used for this website are from here:
 
 https://icons8.com/line-awesome
 
+Iconify is also used.
+
 ## License
 
 MIT. 
