@@ -40,7 +40,7 @@ what_we_do:
     
   - title: "Revealing the Meaning of Life"
     icon: "lar la-snowflake"
-    description: "Motivate students to learn French/English really well."
+    description: "Motivate students to learn French/English/Chinese really well, because it's so fun to be a cohost!"
  
 ---
 
