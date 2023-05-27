@@ -32,13 +32,13 @@ what_we_do:
   item:
   - title: "Promote engineer education"
     icon: "las la-pen-nib"
-    description: "Promote our UTSEUS Engineering/Internship program; Help student audiance in SHU better understand our program."
+    description: "Promote high-quality engineer education."
     
   - title: "Discover the meaning of life"
     icon: "las la-camera"
-    description: "Help student audiance in China and across the world beeter undertand how to succeed university life, career life and life in general."
+    description: "Help student audiance in China and across the world better undertand how to succeed university life, career life and life in general, in a meaningful way."
     
-  - title: "Revealing the Meaning of Life"
+  - title: "Motivate foreign language learning"
     icon: "lar la-snowflake"
     description: "Motivate students to learn French/English/Chinese really well, because it's so fun to be a cohost!"
  
