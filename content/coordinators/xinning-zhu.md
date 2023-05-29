@@ -9,7 +9,7 @@ social:
   link: "https://github.com/Lola-jo"
 ---
 
-Hi everyone, I am one of the cohosts on this site, an information engineering student from utseus who is responsible for interviewing guests and running the site.
+Hi everyone, I am one of the cohosts on this site, an information engineering student from UTSEUS who is responsible for interviewing guests and running the site.
 
 I enjoy interviewing and networking, learning about the stories and experiences of people from all walks of life as I interact with them. I am passionate about computer science and technology and love to explore new technologies and solve technical challenges.
 

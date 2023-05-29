@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: "about"
-image: "images/about.jpg"
+image: "images/about/interview8"
 draft: false
 
 #caption
