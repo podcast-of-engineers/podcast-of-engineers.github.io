@@ -15,7 +15,7 @@
 
 
         <ul class="list-inline breadcrumb-menu">
-        {{ $url := replace .Permalink ( printf "%s" site.BaseURL) "" }}
+        {{ $url := replace .Permalink ( printf "%s" site.BaseURL) "/" }}
         {{ $.Scratch.Add "path" site.BaseURL }}
         <li class="list-inline-item"><a href="{{site.BaseURL | relLangURL}}">Home</a></li>
         {{ range $index, $element := split $url "/" }}
