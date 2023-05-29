@@ -1,5 +1,5 @@
 ---
-title: "Zhicheng dai"
+title: "Zhicheng Dai"
 image: "images/author/author-2.jpg"
 email: "daizhicheng@shu.edu.cn"
 date: 2021-02-02T10:20:19+06:00
