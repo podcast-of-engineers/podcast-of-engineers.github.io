@@ -41,8 +41,6 @@ link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
-link = "plugins/instagram-feed/instagram-feed.js"
-[[params.plugins.js]]
 link = "plugins/search/fuse.min.js"
 [[params.plugins.js]]
 link = "plugins/search/mark.js"
@@ -92,12 +90,6 @@ copyright = "Copyright © The Podcast of Engineers & Guests"
 [params.preloader]
 enable = false
 preloader = "" # use jpg, png, svg or gif format.
-
-# Instagram feed
-[params.instafeed]
-enable = false
-instagram_user = "bookworm"
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 
 # cookies
 [params.cookies]
