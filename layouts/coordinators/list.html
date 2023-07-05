@@ -16,13 +16,23 @@
           <h4 class="font-weight-700 text-dark mt-4 mb-3">{{.Title}}</h4>
         </a>
         {{ end }}
-        <ul class="social-links list-unstyled list-inline ml-0 ml-sm-n2 mb-2">
+      <ul class="social-links list-unstyled list-inline ml-0 ml-sm-n2>
           {{ range .Params.social }}
-          <li class="list-inline-item"><a href="{{.link | safeURL}}">
-              <i class="lab {{.icon}}"></i>
-            </a></li>
+          {{ if eq .icon "bilibili" }}
+          <li class="list-inline-item">
+              <a href="{{.link | safeURL}}">
+                  <iconify-icon icon="simple-icons:bilibili"></iconify-icon>
+              </a>
+          </li>
+          {{else}}
+          <li class="list-inline-item">
+              <a href="{{.link | safeURL}}">
+                  <i class="lab {{.icon}}"></i>
+              </a>
+          </li>
           {{end}}
-        </ul>
+          {{end}}
+      </ul>
         <p>{{- .Summary | truncate 100 -}} &nbsp; <a class="text-dark" href="{{.Permalink}}">Read More</a></p>
       </div>
       {{end}}
