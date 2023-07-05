@@ -14,18 +14,18 @@
         {{ end }}
 
 
-        <ul class="list-inline breadcrumb-menu">
-        {{ $url := replace .Permalink ( printf "%s" site.BaseURL) "/" }}
-        {{ $.Scratch.Add "path" site.BaseURL }}
-        <li class="list-inline-item"><a href="{{site.BaseURL | relLangURL}}">Home</a></li>
-        {{ range $index, $element := split $url "/" }}
-        {{ $.Scratch.Add "path" $element }}
-        {{ if (ne $element "") }}
-        <li class="list-inline-item">/ &nbsp; <a href="{{ $.Scratch.Get `path` }}">{{ . | humanize }}</a></li>
-        {{ $.Scratch.Add "path" "/" }}
-        {{ end }}
-        {{ end }}
-        </ul>
+      <ul class="list-inline breadcrumb-menu">
+          {{ $url := replace .Permalink ( printf "%s" site.BaseURL) "/" }}
+          {{ $.Scratch.Add "path" site.BaseURL }}
+          <li class="list-inline-item"><a href="{{site.BaseURL | relLangURL}}">Home</a></li>
+          {{ range $index, $element := split $url "/" }}
+          {{ $.Scratch.Add "path" "/" }}
+          {{ $.Scratch.Add "path" $element }}
+          {{ if (ne $element "") }}
+          <li class="list-inline-item">/ &nbsp; <a href="{{ $.Scratch.Get `path` }}">{{ . | humanize }}</a></li>
+          {{ end }}
+          {{ end }}
+      </ul>
       </div>
     </div>
   </div>
