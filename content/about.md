@@ -44,14 +44,14 @@ what_we_do:
  
 ---
 
-Welcome to our podcast, "the Podcast of Engineers", where we bring you insightful conversations with engineers from various industries and backgrounds, as well as former engineers, CEOs, managers and professors.
+Welcome to "The Podcast of Engineers," where we invite you to join us for insightful conversations with engineers from diverse industries and backgrounds, along with former engineers, CEOs, managers, and professors.
 
 Our goal is to uncover the stories, experiences, challenges, and successes of engineers who are making a difference in the world today. 
 
-From robotics to aerospace, civil engineering to computer science, and everything in between, our guests share their perspectives on their work, how they got into engineering, and the impact their innovations are having on society. 
+From robotics to aerospace, civil engineering to computer science, and everything in between, our guests share their unique perspectives on their work, their engineering journey, and the profound influence their innovations have on society.
 
-Co-hosted by passionate engineering enthusiasts (mostly students and engineers-to-be from [UTSEUS, Shanghai University](https://utseus.shu.edu.cn/en.htm)), this podcast seeks to inspire and enlighten students in China and across the globe about the exciting and ever-evolving world of engineering. 
+Co-hosted by passionate engineering enthusiasts, many of whom are students and aspiring engineers from [UTSEUS, Shanghai University](https://utseus.shu.edu.cn/en.htm)), this podcast seeks to inspire and enlighten students in China and across the globe about the exciting and ever-evolving world of engineering. 
 
-Engineering without humanity is devoid of soul, that's why humanity is a central topic of our podcast as well. We vision a sustainable, healthy, secure, connected, and creative humanity. For this, engineers should be armed with multicultural and multidisciplinary knowledge and perspectives. That's why we propose this podcast in three languages: Chinese <iconify-icon icon="twemoji:flag-for-flag-china" style="scale:1.0"></iconify-icon> , French <iconify-icon icon="twemoji:flag-for-flag-france" style="scale:1.0"></iconify-icon>  and English <iconify-icon icon="twemoji:flag-united-states" style="scale:1.0"></iconify-icon> <iconify-icon icon="twemoji:flag-united-kingdom"></iconify-icon>, and that's also why our discussions can be very vast and deep, covering from time to time literature, philosophy, history, languages, art, ecology, fitness, psychology, mindfulness, spirituality, social science, and so on.
+Engineering without humanity is devoid of soul, that's why humanity is a central topic of our podcast as well. We vision a sustainable, healthy, secure, connected, and creative humanity. For this, engineers should be armed with multicultural and multidisciplinary knowledge and perspectives. That's why we propose this podcast in three languages: Chinese <iconify-icon icon="twemoji:flag-for-flag-china" style="scale:1.0"></iconify-icon> , French <iconify-icon icon="twemoji:flag-for-flag-france" style="scale:1.0"></iconify-icon>  and English <iconify-icon icon="twemoji:flag-united-states" style="scale:1.0"></iconify-icon> <iconify-icon icon="twemoji:flag-united-kingdom"></iconify-icon>, and that's also why our discussions can be expansive and thought-provoking, touching on diverse topics such as literature, philosophy, history, languages, art, ecology, fitness, psychology, mindfulness, spirituality, social science, and more.
 
-Join us on this journey and gain a new appreciation for the critical role engineers play in shaping our world.
+Join us on this journey and gain a new appreciation for the critical role engineers play in shaping our world. Together, let's embrace engineering with a human touch and drive positive change for a brighter future.
