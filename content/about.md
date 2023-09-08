@@ -30,19 +30,19 @@ what_we_do:
   title: "What We Do"
   enable: true
   item:
-  - title: "Advancing Engineering Education"
+  - title: "Advance Engineering Education"
     icon: "las la-graduation-cap"
     description: "Our primary goal is to promote high-quality engineering education. We are committed to providing valuable insights, advice, and resources to engineers and aspiring engineers to support their educational journey."
     
-  - title: "Exploring Life's Meaning"
+  - title: "Explore Life's Meaning"
     icon: "las la-compass"
     description: "We strive to assist students, both in China and around the world, in gaining a deeper understanding of how to navigate university life, establish fulfilling careers, and lead meaningful lives. Our discussions aim to provide guidance and inspiration for life's various facets."
     
-  - title: "Fostering Language Learning"
+  - title: "Foster Language Learning"
     icon: "las la-globe"
     description: "We encourage students to excel in French, English, and Chinese language learning. Our diverse cohosting team finds joy in language, and we aim to make language learning an enjoyable and enriching experience for our audience."
  
-  - title: "Igniting Inspiration"
+  - title: "Ignite Inspiration"
     icon: "las la-fire"
     description: "At the core of our mission lies the crucial keyword: \"Inspiration.\" We aspire to ignite the spark of inspiration in our listeners. Through compelling stories and discussions, we aim to motivate and empower students, leaving them inspired and enthusiastic about their journeys ahead."
  
