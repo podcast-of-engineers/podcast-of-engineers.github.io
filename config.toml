@@ -115,12 +115,8 @@ name = "Co-hosts"
 url = "cohosts/"
 weight = 4
 
-[[menu.main]]
-name = "Tags"
-url = "tags/"
-weight = 5
-
 ############################# Footer Menu ########################
+
 [[menu.footer]]
 name = "About"
 url = "about/"
@@ -152,10 +148,6 @@ url = "https://www.facebook.com/"
 [[params.social]]
 icon = "lab la-twitter" # https://icons8.com/line-awesome
 url = "https://www.twitter.com/"
-
-[[params.social]]
-icon = "lab la-instagram" # https://icons8.com/line-awesome
-url = "https://www.instagram.com/"
 
 [[params.social]]
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
