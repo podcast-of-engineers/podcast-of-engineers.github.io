@@ -52,7 +52,7 @@ what_we_do:
  
   - title: "Enhance Diversity and Inclusion"
     icon: "las la-hand-holding-heart"
-    description: "To enhance engineering diversity and inclusion by providing a platform for engineers from all backgrounds to share their stories and experiences, and to promote resources and organizations that are working to make engineering a more welcoming and inclusive field."
+    description: "Diversity of thought leads to better problem-solving. Diversity of perspectives leads to more innovative solutions. Diversity of experiences leads to a more inclusive workplace. We want to make engineering a more diverse and inclusive field, open to everyone, regardless of their background."
  
 ---
 
