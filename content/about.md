@@ -30,29 +30,29 @@ what_we_do:
   title: "What We Do"
   enable: true
   item:
-  - title: "Advance Engineering Education"
+  - title: "Advancing Engineering Education"
     icon: "las la-graduation-cap"
     description: "Our primary goal is to promote high-quality engineering education. We are committed to providing valuable insights, advice, and resources to engineers and aspiring engineers to support their educational journey."
     
-  - title: "Explore Life's Meaning"
+  - title: "Exploring Life's Meaning"
     icon: "las la-compass"
     description: "We strive to assist students, both in China and around the world, in gaining a deeper understanding of how to navigate university life, establish fulfilling careers, and lead meaningful lives. Our discussions aim to provide guidance and inspiration for life's various facets."
     
-  - title: "Foster Language Learning"
-    icon: "las la-globe"
+  - title: "Fostering Language Learning"
+    icon: "las la-language"
     description: "We encourage students to excel in French, English, and Chinese language learning. Our diverse cohosting team finds joy in language, and we aim to make language learning an enjoyable and enriching experience for our audience."
  
-  - title: "Ignite Inspiration"
+  - title: "Igniting Inspiration"
     icon: "las la-fire"
     description: "At the core of our mission lies the crucial keyword: \"Inspiration.\" We aspire to ignite the spark of inspiration in our listeners. Through compelling stories and discussions, we aim to motivate and empower students, leaving them inspired and enthusiastic about their journeys ahead."
  
-  - title: "Break Down Stereotypes"
-    icon: "las la-gem"
-    description: "Stereotypes can limit people's choices, discourage people from learning and prevent innovation. By breaking stereotypes, we aim to create a more inclusive and equitable environment for everyone and to encourage more people to pursue engineering careers and to contribute to the field of engineering."
+  - title: "Shattering Stereotypes"
+    icon: "las la-globe"
+    description: "Stereotypes have the power to constrain choices, discourage learning, and stifle innovation. By dismantling these preconceptions, our aim is to cultivate an inclusive and equitable environment that encourages all individuals to explore engineering careers and contribute innovatively to the field."
  
-  - title: "Enhance Diversity and Inclusion"
+  - title: "Cultivating Diversity and Inclusion"
     icon: "las la-hand-holding-heart"
-    description: "Diversity of thought leads to better problem-solving. Diversity of perspectives leads to more innovative solutions. Diversity of experiences leads to a more inclusive workplace. We want to make engineering a more diverse and inclusive field, open to everyone, regardless of their background."
+    description: "Diverse viewpoints foster superior problem-solving skills, fuel innovative thinking, and nurture a more inclusive professional landscape. Our aspiration is to transform engineering into a more inclusive and diverse domain, welcoming individuals from all backgrounds to participate wholeheartedly."
  
 ---
 
