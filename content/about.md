@@ -48,7 +48,7 @@ what_we_do:
  
   - title: "Break Down Stereotypes"
     icon: "las la-gem"
-    description: "At the core of our mission lies the crucial keyword: \"Inspiration.\" We aspire to ignite the spark of inspiration in our listeners. Through compelling stories and discussions, we aim to motivate and empower students, leaving them inspired and enthusiastic about their journeys ahead."
+    description: "Stereotypes can limit people's choices, discourage people from learning and prevent innovation. By breaking stereotypes, we aim to create a more inclusive and equitable environment for everyone and to encourage more people to pursue engineering careers and to contribute to the field of engineering."
  
   - title: "Enhance Diversity and Inclusion"
     icon: "las la-hand-holding-heart"
