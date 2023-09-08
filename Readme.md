@@ -1,8 +1,10 @@
-## 语言
+## Website Language
 
-网站主要使用英语。当然有的地方可以出现中文、法语。
+The primary language used on the website is English. However, you may also encounter instances where Chinese and French are incorporated.
 
-## 教程
+
+
+## Go Hugo Tutorial
 
 - https://gitee.com/lundechen/static_website_with_go_hugo
 
@@ -15,24 +17,23 @@
 - https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp
 
 
-## Go template language
+## Go Template Language
 
 - https://gohugo.io/templates/introduction/
 - https://gohugo.io/templates/
 
-## 模板
+## Hugo Theme
 
-使用的模板:
+Theme used for our website:
 
 - https://github.com/gethugothemes/bookworm-light
-
-不过我们会需要对模板进行一些修改.
 
 Corresponding documentation: 
 
 - https://docs.gethugothemes.com/bookworm/
 
-## 参考项目
+## Other Go Hugo Websites
+
 - https://github.com/cppshu/cppshu.github.io
 
 - https://github.com/metislab/metislab.github.io
