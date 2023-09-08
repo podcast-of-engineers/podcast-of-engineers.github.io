@@ -3,7 +3,6 @@
 The primary language used on the website is English. However, you may also encounter instances where Chinese and French are incorporated.
 
 
-
 ## Go Hugo Tutorial
 
 To delve into the world of Go Hugo, we invite you to explore our comprehensive tutorial available at:
@@ -38,11 +37,11 @@ For a comprehensive understanding of the Go Template Language, we recommend expl
 
 Our website is proudly built upon the theme found at:
 
-- Theme Source: [Bookworm Light Theme (GitHub)](https://github.com/gethugothemes/bookworm-light)
+- [Bookworm Light Theme (GitHub)](https://github.com/gethugothemes/bookworm-light)
 
 For detailed insights into this theme's features and usage, please refer to the corresponding documentation available at:
 
-- Documentation: [Bookworm Light Theme Documentation](https://docs.gethugothemes.com/bookworm/)
+- [Bookworm Light Theme Documentation](https://docs.gethugothemes.com/bookworm/)
 
 
 ## Other Go Hugo Websites
@@ -63,14 +62,14 @@ The icons featured on this website are sourced from the following platforms:
 
 - Iconify: Additionally, we utilize icons from [Iconify](https://icon-sets.iconify.design/) to enhance the visual experience of our website.
 
-## Embed Bilibili videos
+## Embed Bilibili Videos
 
 To embed a Bilibili video, follow these simple steps:
 
-- Step 1
+- **Step 1**
     - Visit [the Bilibili playlist](https://space.bilibili.com/472463946/channel/collectiondetail?sid=1189630) and locate the video you wish to embed. Hover over the "share" option.
 
-- Step 2
+- **Step 2**
     - Click on "Copy" in the "Embed Code". Then, open your Markdown (md) file and paste the code. Ensure that the URL appears as follows: <br>
   ```//player.bilibili.com/player.html?aid=557334928&bvid=BV1ke4y1o7Ki&cid=812171100&page=1```
 
