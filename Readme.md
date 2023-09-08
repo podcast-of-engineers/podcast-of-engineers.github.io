@@ -55,7 +55,7 @@ Iconify is also used.
 - Step 1
     - Visit Bilibili, find the video you want to embed, and hover over "share"
 - Step 2
-    - Click "Copy" in the "Embed Code" column, then open the md file and copy the code in, just keep the URL like this: 
+    - Click "Copy" in the "Embed Code" column, then open the md file and copy the code in, just keep the URL like this: <br>
   ```//player.bilibili.com/player.html?aid= 557334928&bvid=BV1ke4y1o7Ki&cid=812171100&page=1```
 
 ## License
