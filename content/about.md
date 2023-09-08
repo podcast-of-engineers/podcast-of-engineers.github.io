@@ -56,7 +56,7 @@ what_we_do:
  
 ---
 
-Welcome to "The Podcast of Engineers," where we invite you to join us for insightful conversations with engineers from diverse industries and backgrounds, along with former engineers, CEOs, managers, and professors.
+Welcome to "The Podcast of Engineers", where we invite you to join us for insightful conversations with engineers from diverse industries and backgrounds, along with former engineers, CEOs, managers, and professors.
 
 Our goal is to uncover the stories, experiences, challenges, and successes of engineers who are making a difference in the world today. 
 
