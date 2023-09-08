@@ -7,18 +7,18 @@ The primary language used on the website is English. However, you may also encou
 
 To delve into the world of Go Hugo, we invite you to explore our comprehensive tutorial available at:
 
-- [Static Website with Go Hugo Tutorial](https://gitee.com/lundechen/static_website_with_go_hugo)
+- [Static Website with Go Hugo Tutorial (Gitee)](https://gitee.com/lundechen/static_website_with_go_hugo)
 
 
 ## Bootstrap 4
 
 For mastering Bootstrap 4, we recommend the following resources:
 
-- Official Bootstrap 4 Documentation: Explore the fundamentals and advanced features of Bootstrap 4 with the official documentation at [Bootstrap 4 Documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/).
+- [Bootstrap 4 Documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
-- Grid Layout Guidance: To understand and utilize Bootstrap's powerful grid layout system, refer to the official documentation on the grid layout at [Bootstrap 4 Grid Layout](https://getbootstrap.com/docs/4.0/layout/grid/).
+- [Bootstrap 4 Grid Layout](https://getbootstrap.com/docs/4.0/layout/grid/)
 
-- Interactive Learning: For hands-on practice and interactive tutorials, visit W3Schools Bootstrap 4 Grid System to deepen your understanding of [Bootstrap 4's grid system](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp).
+- [Bootstrap 4's grid system](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp)
 
 
 ## Go Template Language
@@ -27,9 +27,9 @@ For mastering Bootstrap 4, we recommend the following resources:
 
 For a comprehensive understanding of the Go Template Language, we recommend exploring the following resources:
 
-- Introduction to Go Templates: Dive into the fundamentals of the Go Template Language with Hugo's official introduction at [Go Template Introduction](https://gohugo.io/templates/introduction/).
+-  [Go Template Introduction](https://gohugo.io/templates/introduction/)
 
-- In-Depth Template Documentation: To delve deeper into template usage and syntax, Hugo offers extensive documentation on templates at [Go Template Documentation](https://gohugo.io/templates/).
+- [Go Template Documentation](https://gohugo.io/templates/)
 
 
 ## Website Theme
@@ -39,7 +39,7 @@ Our website is proudly built upon the theme found at:
 
 - [Bookworm Light Theme (GitHub)](https://github.com/gethugothemes/bookworm-light)
 
-For detailed insights into this theme's features and usage, please refer to the corresponding documentation available at:
+Corresponding documentation:
 
 - [Bookworm Light Theme Documentation](https://docs.gethugothemes.com/bookworm/)
 
@@ -48,19 +48,19 @@ For detailed insights into this theme's features and usage, please refer to the 
 
 If you're looking for more websites built with Go Hugo, you might find these examples interesting:
 
-- [Cppshu's Website](https://github.com/cppshu/cppshu.github.io)
+- [Cppshu's Website (GitHub)](https://github.com/cppshu/cppshu.github.io)
 
-- [Metislab's Website](https://github.com/metislab/metislab.github.io)
+- [Metislab's Website (GitHub)](https://github.com/metislab/metislab.github.io)
 
 
 ## Icons
 
 
-The icons featured on this website are sourced from the following platforms:
+The icons you see on this website are obtained from the following platforms:
 
-- Icons8 Line Awesome: A default source of icons, available at [Icons8 Line Awesome](https://icons8.com/line-awesome).
+- **Icons8 Line Awesome**: This is our primary and default source of icons, and you can find a wide selection of them at [Icons8 Line Awesome](https://icons8.com/line-awesome).
 
-- Iconify: Additionally, we utilize icons from [Iconify](https://icon-sets.iconify.design/) to enhance the visual experience of our website.
+- **Iconify**: In cases where specific icons are not available on Icons8 (e.g., the Bilibili icon), we also utilize icons from [Iconify](https://icon-sets.iconify.design/).
 
 ## Embed Bilibili Videos
 
