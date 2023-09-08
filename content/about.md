@@ -22,7 +22,7 @@ social:
   - link: "https://www.linkedin.com/"
     icon: "lab la-linkedin-in"
     
-  - link: "https://www.github.com/"
+  - link: "https://github.com/podcast-of-engineers/podcast-of-engineers.github.io"
     icon: "lab la-github"
 
 # what_we_do
