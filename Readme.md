@@ -43,6 +43,8 @@ https://icons8.com/line-awesome
 
 Iconify is also used.
 
+- https://iconify.design/
+
 ## Embed Bilibili video
 - Step 1
     - Visit Bilibili, find the video you want to embed, and hover over "share"
