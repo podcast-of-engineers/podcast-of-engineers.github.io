@@ -46,6 +46,14 @@ what_we_do:
     icon: "las la-fire"
     description: "At the core of our mission lies the crucial keyword: \"Inspiration.\" We aspire to ignite the spark of inspiration in our listeners. Through compelling stories and discussions, we aim to motivate and empower students, leaving them inspired and enthusiastic about their journeys ahead."
  
+  - title: "Break Down Stereotypes"
+    icon: "las la-gem"
+    description: "At the core of our mission lies the crucial keyword: \"Inspiration.\" We aspire to ignite the spark of inspiration in our listeners. Through compelling stories and discussions, we aim to motivate and empower students, leaving them inspired and enthusiastic about their journeys ahead."
+ 
+  - title: "Enhance Diversity and Inclusion"
+    icon: "las la-hand-holding-heart"
+    description: "To enhance engineering diversity and inclusion by providing a platform for engineers from all backgrounds to share their stories and experiences, and to promote resources and organizations that are working to make engineering a more welcoming and inclusive field."
+ 
 ---
 
 Welcome to "The Podcast of Engineers," where we invite you to join us for insightful conversations with engineers from diverse industries and backgrounds, along with former engineers, CEOs, managers, and professors.
