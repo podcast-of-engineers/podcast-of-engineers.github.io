@@ -4,17 +4,19 @@
 
 ## 教程
 
-https://gitee.com/lundechen/static_website_with_go_hugo
+- https://gitee.com/lundechen/static_website_with_go_hugo
 
-## Bootstrap 4.5
+## Bootstrap 4
 
-https://getbootstrap.com/docs/4.5/getting-started/introduction/
+- https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
-https://getbootstrap.com/docs/4.0/layout/grid/
+- https://getbootstrap.com/docs/4.0/layout/grid/
 
-https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp
+- https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp
 
-可以自学一下 go template language:
+
+## Go template language
+
 - https://gohugo.io/templates/introduction/
 - https://gohugo.io/templates/
 
