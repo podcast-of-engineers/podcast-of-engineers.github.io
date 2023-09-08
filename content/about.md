@@ -30,17 +30,21 @@ what_we_do:
   title: "What We Do"
   enable: true
   item:
-  - title: "Promote engineer education"
+  - title: "Advancing Engineering Education"
     icon: "las la-pen-nib"
-    description: "Promote high-quality engineer education."
+    description: "Our primary goal is to promote high-quality engineering education. We are committed to providing valuable insights, advice, and resources to engineers and aspiring engineers to support their educational journey."
     
-  - title: "Discover the meaning of life"
+  - title: "Exploring Life's Meaning"
     icon: "las la-camera"
-    description: "Help student audiance in China and across the world better undertand how to succeed university life, career life and life in general, in a meaningful way."
+    description: "We strive to assist students, both in China and around the world, in gaining a deeper understanding of how to navigate university life, establish fulfilling careers, and lead meaningful lives. Our discussions aim to provide guidance and inspiration for life's various facets."
     
-  - title: "Motivate foreign language learning"
+  - title: "Fostering Language Learning"
     icon: "lar la-snowflake"
-    description: "Motivate students to learn French/English/Chinese really well, because it's so fun to be a cohost!"
+    description: "We encourage students to excel in French, English, and Chinese language learning. Our diverse cohosting team finds joy in language, and we aim to make language learning an enjoyable and enriching experience for our audience."
+ 
+  - title: "Igniting Inspiration"
+    icon: "lar la-snowflake"
+    description: "At the core of our mission lies the crucial keyword: \"Inspiration.\" We aspire to ignite the spark of inspiration in our listeners. Through compelling stories and discussions, we aim to motivate and empower students, leaving them inspired and enthusiastic about their journeys ahead."
  
 ---
 
