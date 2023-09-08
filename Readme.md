@@ -40,24 +40,23 @@ Corresponding documentation:
 
 ## Icons
 
-By default, Icons used for this website are from here:
 
-- https://icons8.com/line-awesome
+The icons featured on this website are sourced from the following platforms:
 
-Iconify is also used.
+- Line Awesome: A default source of icons, available at [Line Awesome](https://icons8.com/line-awesome).
 
-- https://icon-sets.iconify.design/
+- Iconify: Additionally, we utilize icons from [Iconify](https://icon-sets.iconify.design/) to enhance the visual experience of our website.
 
 ## Embed Bilibili video
 
 To embed a Bilibili video, follow these simple steps:
 
 - Step 1
-    - Visit [Bilibili playlist](https://space.bilibili.com/472463946/channel/collectiondetail?sid=1189630) and locate the video you wish to embed. Hover over the "share" option.
+    - Visit [the Bilibili playlist](https://space.bilibili.com/472463946/channel/collectiondetail?sid=1189630) and locate the video you wish to embed. Hover over the "share" option.
 
 - Step 2
     - Click on "Copy" in the "Embed Code". Then, open your Markdown (md) file and paste the code. Ensure that the URL appears as follows: <br>
-  ```//player.bilibili.com/player.html?aid= 557334928&bvid=BV1ke4y1o7Ki&cid=812171100&page=1```
+  ```//player.bilibili.com/player.html?aid=557334928&bvid=BV1ke4y1o7Ki&cid=812171100&page=1```
 
 ## License
 
