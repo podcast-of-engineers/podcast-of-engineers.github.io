@@ -39,11 +39,11 @@ Corresponding documentation:
 
 By default, Icons used for this website are from here:
 
-https://icons8.com/line-awesome
+- https://icons8.com/line-awesome
 
 Iconify is also used.
 
-- https://iconify.design/
+- https://icon-sets.iconify.design/
 
 ## Embed Bilibili video
 - Step 1
