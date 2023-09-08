@@ -48,10 +48,14 @@ Iconify is also used.
 - https://icon-sets.iconify.design/
 
 ## Embed Bilibili video
+
+To embed a Bilibili video, follow these simple steps:
+
 - Step 1
-    - Visit [Bilibili](https://space.bilibili.com/472463946/channel/collectiondetail?sid=1189630), find the video you want to embed, and hover over "share".
+    - Visit [Bilibili playlist](https://space.bilibili.com/472463946/channel/collectiondetail?sid=1189630) and locate the video you wish to embed. Hover over the "share" option.
+
 - Step 2
-    - Click "Copy" in the "Embed Code" column, then open the md file and copy the code in, just keep the URL like this: <br>
+    - Click on "Copy" in the "Embed Code". Then, open your Markdown (md) file and paste the code. Ensure that the URL appears as follows: <br>
   ```//player.bilibili.com/player.html?aid= 557334928&bvid=BV1ke4y1o7Ki&cid=812171100&page=1```
 
 ## License
