@@ -35,14 +35,6 @@ Corresponding documentation:
 
 - https://github.com/metislab/metislab.github.io
 
-## TODO
-
-Logo
-
-Question bank
-
-Microphone requirements for co-hosts
-
 ## Icons
 
 By default, Icons used for this website are from here:
