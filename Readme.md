@@ -44,7 +44,7 @@ Corresponding documentation:
 - [Bookworm Light Theme Documentation](https://docs.gethugothemes.com/bookworm/)
 
 
-Demo:
+Theme Demo:
 
 - [Bookworm Light Theme Demo](https://demo.gethugothemes.com/bookworm-light/)
 
