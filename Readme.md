@@ -44,6 +44,10 @@ Corresponding documentation:
 - [Bookworm Light Theme Documentation](https://docs.gethugothemes.com/bookworm/)
 
 
+Demo:
+
+- [Bookworm Light Theme Demo](https://demo.gethugothemes.com/bookworm-light/)
+
 ## Other Go Hugo Websites
 
 If you're looking for more websites built with Go Hugo, you might find these examples interesting:
