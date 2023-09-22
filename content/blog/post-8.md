@@ -9,7 +9,7 @@ cohosts:
     is_coordinator: true
 tags: ["Materials Science"]
 draft: false
-video: "//player.bilibili.com/player.html?aid=60016166&cid=104514776&page=1&danmaku=0"
+video: "//player.bilibili.com/player.html?aid=276116239&bvid=BV1SF411U7GP&cid=1268432780&p=1"
 ---
 
 Dr. Lisa Lee is a highly experienced and accomplished materials science engineer with over a decade of research and development experience in the field. She received her PhD in materials science and engineering from a top university and has worked in both academic and industrial settings. Currently, she serves as a Research Manager at a leading materials science company, where she leads a team of researchers in developing new materials for a variety of applications. Dr. Lee has authored and co-authored numerous scientific papers and patents and has received several awards and recognitions for her contributions to the field of materials science. Her expertise lies in the synthesis, processing, and characterization of a wide range of materials, including polymers, metals, and ceramics. Dr. Lee is passionate about mentoring young engineers and encouraging young people to pursue careers in STEM fields.
