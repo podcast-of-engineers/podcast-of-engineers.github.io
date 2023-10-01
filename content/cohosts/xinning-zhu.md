@@ -7,6 +7,7 @@ draft: false
 social:
 - icon: "lab la-github"
   link: "https://github.com/Lola-jo"
+coordinator: true
 ---
 
 Hi everyone, I am one of the cohosts on this site, an information engineering student from UTSEUS who is responsible for interviewing guests and running the site.
