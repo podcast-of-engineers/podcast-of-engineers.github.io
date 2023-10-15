@@ -1,12 +1,13 @@
 ---
 title: "Episode 002 [FR] | Fabien Pfaender"
-date: 2023-01-24T18:19:25+06:02
+date: 2023-05-26T18:19:25+06:02
 cohosts:
   - name: Yicong Li
     is_coordinator: true
   - name: Nuo Chen
     is_coordinator: true
 draft: false
+image: "images/post/002.png"
 video: "//player.bilibili.com/player.html?aid=276116239&bvid=BV1SF411U7GP&cid=1268432780&p=1"
 ---
 
