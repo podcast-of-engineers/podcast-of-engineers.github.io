@@ -1,6 +1,6 @@
 ---
 title: "Episode 008 [FR] | Clovis Ouedraogo"
-date: 2023-09-23T18:19:25+06:08
+date: 2023-09-17T18:19:25+06:08
 cohosts:
   - name: Yicong Li
     is_coordinator: true
