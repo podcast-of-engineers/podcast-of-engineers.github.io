@@ -81,3 +81,10 @@ To embed a Bilibili video, follow these simple steps:
 
 This website project is licensed under the MIT License.
 
+## Image restriction
+
+- **Cohost Avatar**
+    - 300 * 300
+- **Article Cover**
+    - 970 * 500
+    
