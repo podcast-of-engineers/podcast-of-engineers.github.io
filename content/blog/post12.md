@@ -8,7 +8,7 @@ cohosts:
     is_coordinator: true
   - name: Zikang Chen
     is_coordinator: false
-image: "images/post/001.png"
+image: "images/post/012.png"
 draft: false
 video: "//player.bilibili.com/player.html?aid=875567147&bvid=BV1CN4y1S7AC&cid=1321920555&p=1"
 ---
