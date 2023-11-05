@@ -1,6 +1,6 @@
 ---
 title: "Episode 002 [FR] | Fabien Pfaender"
-date: 2023-05-26T18:19:25+06:02
+date: 2023-05-26T18:19:25+06:00
 cohosts:
   - name: Yicong Li
     is_coordinator: true

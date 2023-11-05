@@ -5,7 +5,7 @@ cohosts:
   - name: Xiaoya Wang
     is_coordinator: true
   - name: Hongjie Wang
-    is_coordinator: false
+    is_coordinator: true
   - name: Yilin Yang
     is_coordinator: false
 draft: false
