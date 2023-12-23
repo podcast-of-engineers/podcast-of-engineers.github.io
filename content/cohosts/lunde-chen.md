@@ -17,4 +17,3 @@ social:
 
 Hi, I'm Lunde Chen. I'm an assistant professor in computer science at UTSEUS, Shanghai University. I enjoy listening to podcasts very much and that's why I launched The Podcast of Engineers with my students, for which I am also a co-host. To learn more about me, please visit: <http://lunde.top>.
 
-I LOVE LEWAGON!
