@@ -77,6 +77,12 @@ To embed a Bilibili video, follow these simple steps:
     - Click on "Copy" in the "Embed Code". Then, open your Markdown (md) file and paste the code. Ensure that the URL appears as follows: <br>
   ```//player.bilibili.com/player.html?aid=557334928&bvid=BV1ke4y1o7Ki&cid=812171100&page=1```
 
+## Figma
+
+https://www.figma.com/file/oGxuJOkbmUyZqqqckCyJpi/PodcastCover?type=design&node-id=84%3A3141&mode=design&t=e3a4X7mieSmJbRA1-1
+
+https://www.figma.com/file/dtBZXodXiKq3SzLs3640DM/PodcastCover-(Copy)?type=design&node-id=0-1&mode=design&t=mMnuueoa0hfTpuQw-0
+
 ## License
 
 This website project is licensed under the MIT License.
